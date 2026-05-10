@@ -56,6 +56,9 @@ Raw output Example:
 
 - Exception in thread "main" java.lang.NullPointerException → Red
 
+Before | After demonstration:
+<img width="1919" height="562" alt="Sem título" src="https://github.com/user-attachments/assets/2542df0d-3706-4702-bcf5-542bd97f39f6" />
+
 
 ---
 
