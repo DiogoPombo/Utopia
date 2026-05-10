@@ -45,21 +45,19 @@ Apply coloring rules line by line.
 Print the processed output back to the console.
 
 
-📂 Example
+Example:
 
 Raw output:
 
-INFO: Starting server
-WARNING: Config file missing
-Exception in thread "main" java.lang.NullPointerException
-    at com.example.App.start(App.java:42)
-Colored output with Utopia:
+INFO: Starting server → Cyan
 
-INFO → Cyan
+WARNING: Config file missing → Yellow
 
-WARNING → Yellow
+Exception in thread "main" java.lang.NullPointerException → Red
+    at com.example.App.start(App.java:42) → Red
 
-Exception and stacktrace → Red
+
+---
 
 
 🧩 Implementation Notes
