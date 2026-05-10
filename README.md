@@ -45,9 +45,7 @@ Apply coloring rules line by line.
 Print the processed output back to the console.
 
 
-Example:
-
-Raw output:
+Raw output Example:
 
 - INFO: Starting server → Cyan
 
