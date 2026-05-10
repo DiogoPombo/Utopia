@@ -49,12 +49,11 @@ Example:
 
 Raw output:
 
-INFO: Starting server → Cyan
+- INFO: Starting server → Cyan
 
-WARNING: Config file missing → Yellow
+- WARNING: Config file missing → Yellow
 
-Exception in thread "main" java.lang.NullPointerException → Red
-    at com.example.App.start(App.java:42) → also Red
+- Exception in thread "main" java.lang.NullPointerException → Red
 
 
 ---
