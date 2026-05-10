@@ -46,6 +46,9 @@ Print the processed output back to the console.
 
 
 Raw output Example:
+- DEBUG: Executing SQL query: SELECT * FROM... → White
+
+- DEBUG: Connection to database successfully established! → Green
 
 - INFO: Starting server → Cyan
 
